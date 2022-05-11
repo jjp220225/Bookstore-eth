@@ -1,0 +1,128 @@
+[
+    {
+      "id": "0001",
+      "type": "Matsuo Basho, Nobuyuki Yuasa",
+      "title": "The Narrow Road to the Deep North and Other Travel Sketches",
+      "description": "'It was with awe, That I beheld, Fresh leaves, green leaves, Bright in the sun'",
+      "coverImage": "/images/NarrowROad.jpg",
+      "author": "Matsuo Basho, Nobuyuki Yuasa",
+      "link": "/",
+      "slug": "Matsuo Basho, Nobuyuki Yuasa - The Narrow Road",
+      "mainPoints": [
+        "When the Japanese haiku master Basho composed The Narrow Road to the Deep North , he was an ardent student of Zen Buddhism, setting off on a series of travels designed to strip away the trappings of the material world and bring spiritual enlightenment. He writes of the seasons changing, the smell of the rain, the brightness of the moon and the beauty of the waterfall, through which he sensed the mysteries of the universe. These writings not only chronicle Basho's travels, but they also capture his vision of eternity in the transient world around him.",
+        "Translated with an Introduction by Nobuyuki Yuasa"
+      ],
+      "createdAt": "1 May 2019"
+    },
+    {
+      "id": "0002",
+      "type": "Oliver Bullough",
+      "title": "Moneyland: Why Thieves And Crooks Now Rule The World And How To Take It Back",
+      "description": "SUNDAY TIMES BESTSELLER, WATERSTONES NON-FICTION BOOK OF THE MONTH, SHORTLISTED FOR THE ORWELL PRIZE 2019, SUNDAY TIMES BUSINESS BOOK OF THE YEAR.",
+      "coverImage": "/images/Moneyland.jpg",
+      "author": "Oliver Bullough",
+      "link": "/",
+      "slug": "Moneyland - Oliver Bullough",
+      "mainPoints": [
+        "'You cannot understand power, wealth and poverty without knowing about Moneyland.' Simon Kuper, New Statesman",
+        "Because in 1962, some bankers in London had an idea that changed the world. That idea was called 'offshore'. It meant that, for the first time, thieves could dream big. They could take everything.",
+        "Join investigative journalist Oliver Bullough on a journey into the hidden world of the new global kleptocrats.",
+        "See the poor countries where public money is stolen and the rich ones where it is laundered and invested. Watch the crooks at work and at play, and meet their respectable, white-collar enablers. Learn how the new system works and begin to see how we can tackle it."
+      ],
+      "createdAt": ""
+    },
+    {
+      "id": "0003",
+      "type": "Michael Lewis",
+      "title": "The Premonition: A Pandemic Story",
+      "description": "HE SUNDAY TIMES AND NEW YORK TIMES BESTSELLER, 'Superb ... It is tremendous fun, tremendously told' The Times,'A fluid intellectual thriller' Daily Telegraph, From the global bestselling author of The Big Short , the gripping story of the maverick scientists who hunted down Covid-19",
+      "coverImage": "/images/Premonition.jpg",
+      "author": "Michael Lewis",
+      "link": "/",
+      "slug": "The Premonition, A Pandemic Story - Michael Lewis",
+      "mainPoints": [
+        "In January 2020, as people started dying from a new virus in Wuhan, China, few really understood the magnitude of what was happening. Except, that is, a small group of scientific misfits who in their different ways had been obsessed all their lives with how viruses spread and replicated - and with why the governments and the institutions that were supposed to look after us, kept making the same mistakes time and again.",
+        "This group saw what nobody else did. A pandemic was coming. We weren't prepared.",
+        "The Premonition is the extraordinary story of a group who anticipated, traced and hunted the coronavirus; who understood the need to think differently, to learn from history, to question everything; and to do all of this fast, in order to act, to save lives, communities, society itself. It's a story about the workings of the human mind; about the failures and triumphs of human judgement and imagination. It's the story of how we got to now."
+      ],
+      "createdAt": "31 March 2022"
+    },
+    {
+      "id": "0004",
+      "type": "Ben Rawlence",
+      "title": "The Treeline: The Last Forest and the Future of Life on Earth",
+      "description": "* A BBC RADIO 4 BOOK OF THE WEEK *, 'The very treeline is on the move: a devastating image. This book is an evocative, wise and unflinching exploration of what it will mean for humanity.' Jay Griffiths",
+      "coverImage": "/images/LastForest.jpg",
+      "author": "Ben Rawlence",
+      "link": "/",
+      "slug": "The Treeline - Ben Rawlence",
+      "mainPoints": [
+        "At the treeline, Rawlence witnesses the accelerating impact of climate change and the devastating legacies of colonialism and capitalism. But he also finds reasons for hope. Humans are creatures of the forest; we have always evolved with trees. The Treeline asks us where our co-evolution might take us next. Deeply researched and beautifully written, The Treeline is a spellbinding blend of nature, travel and science writing, underpinned by an urgent environmental message",
+        "The Arctic treeline is the frontline of climate change, where the trees have been creeping towards the pole for fifty years already. These vast swathes of forests, which encircle the north of the globe in an almost unbroken green ring, comprise the world's second largest biome."
+      ],
+      "createdAt": ""
+    },
+    {
+      "id": "0005",
+      "type": "Stephen Hawking",
+      "title": "A Brief History Of Time: From Big Bang To Black Holes",
+      "description": "Was there a beginning of time? Could time run backwards? Is the universe infinite or does it have boundaries?",
+      "coverImage": "/images/BriefHistOfTime.webp",
+      "author": "Stephen Hawking",
+      "link": "/",
+      "slug": " Brief History Of Time - Stephen Hawking",
+      "mainPoints": [
+        "This new edition includes recent updates from Stephen Hawking with his latest thoughts about the No Boundary Proposal and offers new information about dark energy, the information paradox, eternal inflation, the microwave background radiation observations, and the discovery of gravitational waves.",
+        "These are just some of the questions considered in the internationally acclaimed masterpiece by the world renowned physicist - generally considered to have been one of the world's greatest thinkers."
+      ],
+      "createdAt": "18 August 2011"
+    },
+    {
+      "id": "0006",
+      "type": "Brian Cox, Jeff Forshaw",
+      "title": "The Quantum Universe: Everything that can happen does happen",
+      "description": "From the bestselling authors of Why does E=mc2? comes The Quantum Universe , in which Brian Cox, presenter of the BBC's Wonders of the Solar System and Wonders of the Universe, and Jeff Forshaw go on a brilliantly ambitious mission to show that everyone can understand the deepest questions of science.",
+      "coverImage": "/images/BrianCox.webp",
+      "author": "Brian Cox, Jeff Forshaw",
+      "link": "/",
+      "slug": "Brian Cox, Jeff Forshaw - The Quantum Universe",
+      "mainPoints": [
+        "But just what is quantum physics? How does it help us understand our amazing world? Where does it leave Newton and Einstein? And why, above all, can we be sure that the theory is good?",
+        "Here, Brian Cox and Jeff Forshaw give us the real science behind the bizarre behaviour of the atoms and energy that make up the universe, and reveal exactly how everything that can happen, does happen"
+      ],
+      "createdAt": "21 June 2012"
+    },
+    {
+      "id": "0007",
+      "type": "Samantha Shannon",
+      "title": "The Priory of the Orange Tree",
+      "description": "THE INTERNATIONAL BESTSELLER, A world divided. A queendom without an heir. An ancient enemy awakens.  Epic' Guardian 'Majestic' Daily Mail 'Escapism at its finest - Shannon, we salute you' Stylist.   An enthralling, epic fantasy about a world on the brink of war with dragons - and the women who must lead the fight to save it.",
+      "coverImage": "/images/ThePriory.jpg",
+      "author": "Samantha Shannon",
+      "link": "/",
+      "slug": "Samantha Shannon - The Priory of the Orange Tree",
+      "mainPoints": [
+        "The House of Berethnet has ruled Inys for a thousand years. Still unwed, Queen Sabran the Ninth must conceive a daughter to protect her realm from destruction - but assassins are getting closer to her door",
+        "Ead Duryan is an outsider at court. Though she has risen to the position of lady-in-waiting, she is loyal to a hidden society of mages. Ead keeps a watchful eye on Sabran, secretly protecting her with forbidden magic.",
+        "Across the dark sea, Tane has trained to be a dragonrider since she was a child, but is forced to make a choice that could see her life unravel. Meanwhile, the divided East and West refuse to parley, and forces of chaos are rising from their sleep."
+      ],
+      "createdAt": "6 Feb 2020"
+    },
+    {
+      "id": "0008",
+      "type": "Stephen King",
+      "title": "Later",
+      "description": "SOMETIMES GROWING UP MEANS FACING YOUR DEMONS, The son of a struggling single mother, Jamie Conklin just wants an ordinary childhood. But Jamie is no ordinary child. Born with an unnatural ability his mom urges him to keep secret, Jamie can see what no one else can see and learn what no one else can learn. But the cost of using this ability is higher than Jamie can imagine - as he discovers when an NYPD detective draws him into the pursuit of a killer who has threatened to strike from beyond the grave.",
+      "coverImage": "/images/Later.jpg",
+      "author": "Stephen King",
+      "link": "/",
+      "slug": "Stephen King - Later",
+      "mainPoints": [
+        "LATER is Stephen King at his finest, a terrifying and touching story of innocence lost and the trials that test our sense of right and wrong. With echoes of King's classic novel It",
+        "LATER is a powerful, haunting, unforgettable exploration of what it takes to stand up to evil in all the faces it wears."
+      ],
+      "createdAt": ""
+    }
+  
+    
+  ]
