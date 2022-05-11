@@ -12,7 +12,7 @@ export default function Guide({}) {
       <h2 className="text-3xl font-normal text-center mt-8 mb-8">
         HOW TO PURCHASE GUIDE
       </h2>
-      <YoutubeEmbed embedId="rokGy0huYEA" />
+//       <YoutubeEmbed embedId="rokGy0huYEA" />
     </div>
     
   )
